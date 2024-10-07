@@ -1,0 +1,2 @@
+# Wiki
+TheSMP Wiki
